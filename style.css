@@ -1,7 +1,7 @@
 *{
     font-family: 'Manrope', sans-serif;
     box-sizing: border-box;
-    margin: 0;
+    margin: 0px;
     padding: 0;
 }
 .navli, .nava{
@@ -37,7 +37,7 @@ padding:0px 20px;
 }
 .topribbon
 {
-text-color:#1d1d1f;
+color:#1d1d1f;
 background-color:#fbfbfd;
 text-align:center;
 font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
@@ -53,7 +53,7 @@ line-height:1.47059;
     display: inline-block;
     padding: 12px 0;
     background-color: #fbfbfd;
-    text-color: #1d1d1f;
+    color: #1d1d1f;
     text-align: center;
 }
 .images{
@@ -70,4 +70,60 @@ line-height:1.47059;
     margin-left: 42.5%;
     margin-right: 70px ;
     margin-top: 70px ;
+}
+footer{
+    background-color: rgb(99, 99, 99);
+    padding: 50px;
+}
+.container{
+    background-color: rgb(99, 99, 99);
+    color: white;
+    padding: 15px;
+}
+.footer_title{
+    padding: 45px;font-family: 'Dancing Script', cursive;
+    font-size: 4rem;
+    text-align: center;
+    text-shadow: 4px 4px #000000;
+}
+.fb:hover,.twitter:hover,.insta:hover{
+    color: white;  
+}
+.fb{
+    color: rgb(68, 169, 252);
+    margin: 10px;
+}
+.twitter{
+    color: rgb(0, 140, 255);
+    margin: 10px;
+}
+.insta{
+    color: rgb(224, 5, 78);
+    margin: 10px;
+}
+.contact{
+    border: 0;
+    padding: 5px;
+    margin: 3px;
+    border-radius: 10px;
+    background-color: rgb(0, 0, 0);
+    color: cornsilk;
+}
+label{
+    font-family: monospace;
+    font-size: 18px;
+    
+}
+.col-4{
+    text-align: center;
+}
+.col-t{
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-family: 'STIX Two Math', serif;
+    background-color: rgba(0, 0, 0,.5);
+    
+}
+li{
+    margin: 5px;
 }
