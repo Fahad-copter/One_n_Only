@@ -1,0 +1,73 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: url("../Images/signin-bckg.jpg");
+    background-size: cover ;
+    background-position: center ;
+    background-repeat: repeat-x;
+}
+
+.sign-in-form
+{
+    width: 300px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 3px 0 rgba(0,0,0,0);
+    margin: 8% auto 0 ;
+    text-align: center;
+}
+.sign-in-form h1
+{
+    color: rgba(22, 178, 240, 2.4);
+}
+
+.input
+{
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px 0;
+    width: 94%;
+    border: 1px solid #999;
+    outline: none;
+}
+
+button
+{
+    color: #fff;
+    padding: 20px;
+    width: 100%;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px 0 ;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.sign-in-btn
+{
+    background-color: rgba(15, 94, 197,0.8);
+}
+.google-sign-in-btn
+{
+    background-color: rgba(255, 0, 0, 0.788);
+}
+a {
+
+    text-decoration: none;
+}
+
+hr{
+
+    margin-top: 20px;
+    width: 80%
+
+}
+.or 
+{
+    background: #fff;
+    width: 30px;
+    margin: -19px auto 10px;
+
+}
