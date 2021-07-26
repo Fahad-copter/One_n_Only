@@ -18,6 +18,10 @@ header{
     padding:30px 10%;
     background-color: #1d1d1f;
 }
+nav ul li
+{
+    display: flex;
+}
 .logo{
     cursor: pointer;
     color: whitesmoke;
