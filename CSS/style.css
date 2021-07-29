@@ -12,11 +12,11 @@ color: whitesmoke;
 text-decoration: none;
 }
 header{
-    display:flex;
+    /* display:flex;
     justify-content: space-between;
     align-items: center;
     padding:30px 10%;
-    background-color: #1d1d1f;
+    background-color: #1d1d1f; */
 }
 nav ul li
 {
@@ -27,6 +27,7 @@ nav ul li
     color: whitesmoke;
     text-decoration: none;
     font-weight: bold;
+    font-style: italic;
 }
 .logo:hover{
     color: #8d8d8d;
