@@ -1,0 +1,66 @@
+#blockimages{
+    display:flex;
+    padding-left:5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    padding-bottom:1.5%;
+}
+#blocktext{
+    display:flex;
+    padding-left:5%;
+    padding-right: 5%;
+    padding-top: 0%;
+    padding-bottom:0%;
+}
+#blocktextlast{
+    display:flex;
+    padding-left:5%;
+    padding-right: 5%;
+    padding-top: 0%;
+    padding-bottom:5%;
+}
+#product1{
+    box-sizing: border-box;
+    margin: 20px;
+    margin-left: 1.3%;
+    margin-right: 5%;
+}
+#image{
+    height:200px;
+    width:200px;
+    filter:drop-shadow(12,10,11)
+}
+#product2{
+    box-sizing: border-box;
+    margin:20px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+#product3{
+    box-sizing: border-box;
+    margin:20px;
+    margin-left:5%;
+    margin-right:5%;
+}
+#product4{
+    box-sizing: border-box;
+    margin:20px;
+    margin-left: 5%;
+    margin-right: 0px;
+}
+#text1{
+    margin-left: 7%;
+    margin-right: 5%;
+}
+#text2{
+    margin-left: 18%;
+    margin-right: 5%;
+}
+#text3{
+    margin-left: 18%;
+    margin-right: 5%;
+}
+#text4{
+    margin-left: 18%;
+    margin-right: 5%;
+}
