@@ -1,0 +1,28 @@
+body{
+    background-color: white;
+    background-repeat: no-repeat;
+}
+.product_img{
+    
+    width: 900px;
+    margin: 1% 5% 10%;
+}
+.carousel-inner{
+    margin: auto;
+    width: 80%;
+}
+.product-list{
+    padding: 5%;
+    margin-left: 20px;
+}
+.col-3{
+    border: 1px solid black;
+    text-align: center;
+    padding: 2%;
+    margin: 5px;
+    width: 300px;
+}
+.col-3 img{
+    width: 200px;
+    
+}
