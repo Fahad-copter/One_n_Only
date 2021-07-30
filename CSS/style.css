@@ -151,7 +151,7 @@ form > input,textarea{
     background-color: #f0f0f0;
 }
 
-.sec-1 h1, h2, h3, h4, h5, h6 {
+.sec-1 h1 {
     font-family: 'TitilliumWeb-Regular';
     text-transform: uppercase;
     font-style: normal;
@@ -172,7 +172,7 @@ form > input,textarea{
     background-color: #f0f0f0;
 }
 
-.sec-2 h1, h2, h3, h4, h5, h6{
+.sec-2 h1{
     font-family: 'TitilliumWeb-Regular';
     text-transform: uppercase;
     font-style: normal;
@@ -196,7 +196,7 @@ form > input,textarea{
     height: 35rem;
     perspective: 1000px;
   }
- .carousel-item > img {
+ .carousel-item > .img-fluid {
     position: absolute;
     top: 0;
     left: 0;
