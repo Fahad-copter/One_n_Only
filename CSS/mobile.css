@@ -14,18 +14,15 @@ nav{
     margin: auto;
     width: 80%;
 }
-.product-list{
-    padding: 5%;
-    /* margin-left: 20px; */
-}
+
 .col-3{
-    border: 1px solid rgb(228, 226, 226);
+    border: 1px solid rgb(223, 221, 221);
     text-align: center;
     padding: 2%;
     margin: 5px;
     width: 300px;
 }
-.col-3 img{
+.col-lg-3 img{
     width: 200px;
     
 }
