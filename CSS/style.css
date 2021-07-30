@@ -11,13 +11,7 @@ font-size: 16px;
 color: whitesmoke;
 text-decoration: none;
 }
-header{
-    /* display:flex;
-    justify-content: space-between;
-    align-items: center;
-    padding:30px 10%;
-    background-color: #1d1d1f; */
-}
+
 nav ul li
 {
     display: flex;

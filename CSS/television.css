@@ -1,6 +1,9 @@
 body{
     background-color: rgb(243, 243, 243);
 }
+nav{
+    background-color: rgba(127, 195, 235, 0.788);
+}
 .product_img{
     width: 500px;
     height: 300px;
