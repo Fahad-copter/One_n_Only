@@ -11,6 +11,9 @@ font-size: 16px;
 color: whitesmoke;
 text-decoration: none;
 }
+.navbar-customclass {
+    background-color: rgba(127, 195, 235, 0.788);
+}
 
 nav ul li
 {

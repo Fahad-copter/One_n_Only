@@ -2,6 +2,9 @@ body{
     background-color: white;
     background-repeat: no-repeat;
 }
+nav{
+    background-color: rgba(127, 195, 235, 0.788);
+}
 .product_img{
     
     width: 900px;

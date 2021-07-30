@@ -1,9 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Gowun+Batang&display=swap');
 
- 
-*{
-	font-family:'Gowun Batang', sans-serif;
-	 
+nav{
+    background-color: rgba(127, 195, 235, 0.788);
 }
 
 header {
