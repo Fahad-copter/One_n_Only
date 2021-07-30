@@ -6,7 +6,7 @@ This website is the one & only store for all the premium products out there in t
 
 You can check the [live demo](https://fahad-copter.github.io/One_n_Only/) to get the first-hand experience of the website.
 
-## Contribute
+# Contribute
 
 Contributions are always welcome!
 Please read the [contribution guidelines](contributing.md) first.
