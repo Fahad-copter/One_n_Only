@@ -1,3 +1,16 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 4px 8%;
+    background-color: #1d1d1f;
+}
+.nav_links, .navli {
+    display: inline-block;
+    padding: 6px 20px;
+    /* display: inline-block; */
+    margin: auto;
+}
 #blockimages{
     display:flex;
     padding-left:5%;
@@ -28,7 +41,7 @@
 #image{
     height:200px;
     width:200px;
-    filter: drop-shadow(5px 5px 5px #222);
+    filter:drop-shadow(12,10,11)
 }
 #product2{
     box-sizing: border-box;

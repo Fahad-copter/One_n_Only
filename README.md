@@ -1,7 +1,7 @@
-# One_n_Only
---
-   This website one & only specially for all electronics gadget's 
-And electronic information. This website introduce for new upcoming
-Recent electronics item's information and essay buy a electronic devices
-This sites user's friendly and buy and returns policy is very eassy and 
-full customer satisfaction             
+# One_n_Only™
+
+This website is the one & only store for all the premium products out there in the market with doorstep delivery service without any delivery charge and 10% extra discount to the students planning to buy a computer for their studies.
+
+# Live Demo
+
+You can check the [live demo](https://fahad-copter.github.io/One_n_Only/) to get the first-hand experience of the website.
