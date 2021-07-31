@@ -9,7 +9,9 @@ body{
     font-family: sans-serif monospace;
     font-weight: normal;
 }
-
+nav{
+    background-color: rgba(127, 195, 235, 0.788);
+}
 .navli, .nava{
 font-family: "Montserrat", sans-serif;
 font-weight: 500;
