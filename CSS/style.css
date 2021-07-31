@@ -159,7 +159,7 @@ form > input,textarea{
     padding: 2.5% 0;
 }
 
-.sec-1 h1 {
+.sec-1 h1,h2 {
     font-family: 'TitilliumWeb-Regular';
     text-transform: uppercase;
     font-style: normal;
@@ -183,7 +183,7 @@ background-color: #EFEDED;
 padding: 2.5% 0;
 }
 
-.sec-2 h1{
+.sec-2 h1,h2{
     font-family: 'TitilliumWeb-Regular';
     text-transform: uppercase;
     font-style: normal;
@@ -210,6 +210,7 @@ img {
 }
 .carousel {
     margin-bottom: 4rem;
+    margin-top: 4rem;
   }
 .carousel-item {
     height: 35rem;
