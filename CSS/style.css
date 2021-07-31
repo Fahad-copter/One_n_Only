@@ -83,7 +83,7 @@ line-height:1.47059;
     margin-right: 70px ;
     margin-top: 70px ;
 }
-footer{
+/* footer{
     background-color: rgb(37, 37, 37);
     padding: 10px;
     border-top: 10px solid black;
@@ -121,11 +121,6 @@ footer{
     background-color: rgb(0, 0, 0);
     color: cornsilk;
 }
-label{
-    font-family: 'Muli', sans-serif;;
-    font-size: 18px;
-    
-}
 
 .col-4 ul{
     font-size: 15px;
@@ -140,7 +135,7 @@ label{
 }
 li{
     margin: 5px;
-}
+} */
 /* aboutus */
 .aboutus{
     text-align: center;
