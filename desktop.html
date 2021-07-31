@@ -243,18 +243,44 @@ Operating System: Pre-loaded Windows 10 Trial.</p>
             <li>oneandonly@mail.com</li>
         </ul><br>
         <span style="color: rgb(219, 219, 128);background-color: rgb(31, 31, 39);
-        border-radius: 50px; padding: 5px;">OR</span>
-        <form>
-            <legend style="font-size: 18px;">Send Message :</legend>
-            <input type="email" placeholder="Enter your Mail ID"
-            style="background-color: rgb(19, 19, 19);color: wheat;border: 0;
-            padding: 5px;margin: 4px;" required>
-            <textarea cols="40" rows="2" placeholder="Write your message here"
-            style="background-color: rgb(19, 19, 19);color: wheat;border: 0;
-            padding: 5px;"></textarea>
-            <button type="submit" style="font-size: 14px; color: rgb(37, 37, 35);background-color: rgb(119, 179, 149);
-            border-radius: 10px; padding: 3px;width: 100px;">Send</button>
-        </form><br>
+        border-radius: 50px; padding: 5px;">OR</span> <br>
+        <!-- send message pop -->
+        <div class="m-3 mb-5">
+            <button type="button" class="btn btn-info btn-sm rounded-pill" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-whatever="@getbootstrap">Click Here</button> To Send Meaage
+          </div>
+            <div style="color: black;text-align: left;" class="modal fade" 
+            id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" 
+            aria-hidden="true">
+              <div class="modal-dialog" >
+                <div class="modal-content" style="border-radius: 20px;">
+                  <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">New message</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                  </div>
+                  <div class="modal-body">
+                    <form>
+                      <div class="mb-3">
+                        <label for="recipient-name" class="col-form-label fw-bolder">Sender:</label>
+                        <input type="text" class="form-control" id="recipient-name" placeholder="Enter Your Name" required>
+                      </div>
+                      <div class="mb-3">
+                        <label for="recipient-mail" class="col-form-label fw-bolder">Mail-Id:</label>
+                        <input type="email" class="form-control" id="recipient-mail" placeholder="Enter Your Mail-id" required>
+                      </div>
+                      <div class="mb-3">
+                        <label for="message-text" class="col-form-label fw-bolder">Message:</label>
+                        <textarea class="form-control" id="message-text" placeholder="Write Your Message Here"></textarea>
+                      </div>
+                    
+                  </div>
+                  <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-warning">Send message</button>
+                  </div>
+                </form>
+                </div>
+              </div>
+            </div>
         <span style="font-size: 14px;">&copy; Copyright 2021 One & Only.com</span>
     </div>
     <div class="col-4" style="text-align: center;" >
