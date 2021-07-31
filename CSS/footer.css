@@ -1,0 +1,53 @@
+footer{
+    background-color: rgb(37, 37, 37);
+    padding: 10px;
+    border-top: 10px solid black;
+}
+.container{
+    color: rgb(197, 195, 204);
+    padding: 15px;
+}
+.footer_title{
+    padding: 45px;font-family: 'Dancing Script', cursive;
+    font-size: 4rem;
+    text-align: center;
+    text-shadow: 4px 4px #000000;
+}
+.fb:hover,.twitter:hover,.insta:hover{
+    color: white;  
+}
+.fb{
+    color: rgb(68, 169, 252);
+    margin: 10px;
+}
+.twitter{
+    color: rgb(0, 140, 255);
+    margin: 10px;
+}
+.insta{
+    color: rgb(224, 5, 78);
+    margin: 10px;
+}
+.contact{
+    border: 0;
+    padding: 5px;
+    margin: 3px;
+    border-radius: 10px;
+    background-color: rgb(0, 0, 0);
+    color: cornsilk;
+}
+
+.col-4 ul{
+    font-size: 15px;
+}
+.col-t{
+    margin-bottom: 30px;
+    font-size: 18px;
+    padding: 1.5%;
+    font-family: 'STIX Two Math', serif;
+    background-color: rgba(0, 0, 0,.5);
+    border-radius: 15px;
+}
+li{
+    margin: 5px;
+}
