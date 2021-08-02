@@ -13,7 +13,8 @@
           <link rel="stylesheet" href="CSS/footer.css">
           <title>Desktop | One & Only</title>
       </head>
-<body>
+<body onload="myfunction()">
+    <div id="loading"></div>
         <nav class="navbar navbar-expand-lg navbar-light ">
           <div class="container-fluid">
             <a class="navbar-brand fw-bolder" href="index.html">O&O Electronics</a>
@@ -312,5 +313,12 @@ Operating System: Pre-loaded Windows 10 Trial.</p>
   </div>
 </footer>
 
+    <script>
+        var preloader = document.getElementById('loading');
+        function myfunction(){
+            preloader.style.display = 'none';
+        }
+    </script>
+    
 </body>
 </html>
