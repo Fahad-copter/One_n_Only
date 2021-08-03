@@ -15,11 +15,37 @@ nav{
 }
 
 .col-lg-3{
-    border: 1px solid rgb(223, 221, 221);
+    padding: 1%;
+    background-color: rgb(243, 243, 243);
     border-radius: 10%;
     text-align: center;
+}
+.row{
+    margin: 1%;
+}
+.card{
+   background-color: rgb(243, 243, 243);
+    border: 0;
 }
 .col-lg-3 img{
     width: 150px;
     height: 80px;
+}
+.card > img{
+    height: 100px;
+}
+.card-text{
+    font-size: 14px;
+}
+
+.card-text span{
+    font-weight: 600;
+}
+.price{
+    color: rgb(15, 22, 122);
+}
+.popover {
+    background: rgb(197, 197, 197);
+    font-weight: 700;
+    text-align: justify;
 }
