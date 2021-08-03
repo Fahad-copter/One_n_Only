@@ -79,7 +79,7 @@ footer{
     padding: 10px;
     border-top: 10px solid black;
 }
-.container{
+footer > .container{
     color: rgb(197, 195, 204);
     padding: 15px;
 }
