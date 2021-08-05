@@ -167,7 +167,7 @@ form > input,textarea{
 
 .sec-1 h1,h2 {
     font-family: 'TitilliumWeb-Regular';
-    text-transform: uppercase;
+    text-transform: capitalize;
     font-style: normal;
     font-weight: normal;
     font-size: 22px !important;
@@ -191,7 +191,7 @@ padding: 2.5% 0;
 
 .sec-2 h1,h2{
     font-family: 'TitilliumWeb-Regular';
-    text-transform: uppercase;
+    text-transform: capitalize;
     font-style: normal;
     font-weight: normal;
     font-size: 22px !important;
