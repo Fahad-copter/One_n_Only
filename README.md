@@ -1,6 +1,6 @@
 # One_n_Only™
 
-This website is the one & only store for all the premium products out there in the market with doorstep delivery service without any delivery charge and 10% extra discount to the students planning to buy a computer for their studies.
+This website is the one & only store for all the premium products out there in the market with door-step delivery service without any delivery charge and 10% extra discount to the students planning to buy a computer for their studies.
 
 # Live Demo
 
